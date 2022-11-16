@@ -35,8 +35,10 @@
 ### Working of the Project: 
 
 **Click below to watch!**
+<!-- 
+[![Distance Measurement System using Arduino Uno & Ultrasonic Sensor](https://img.youtube.com/vi/cBoGD3gLO2A/0.jpg)](https://www.youtube.com/watch?v=cBoGD3gLO2A) -->
 
-[![Distance Measurement System using Arduino Uno & Ultrasonic Sensor](https://img.youtube.com/vi/cBoGD3gLO2A/0.jpg)](https://www.youtube.com/watch?v=cBoGD3gLO2A)
+<a target="_blank" href="https://www.youtube.com/watch?v=cBoGD3gLO2A"> <img src="https://img.youtube.com/vi/cBoGD3gLO2A/0.jpg"> </a>
 
 
 ### **Made by Amit Dewangan (me) & Divya Pawar (my teammate)!**
