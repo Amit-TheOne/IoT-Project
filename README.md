@@ -38,6 +38,6 @@
 
 [![Distance Measurement System using Arduino Uno & Ultrasonic Sensor](https://img.youtube.com/vi/cBoGD3gLO2A/0.jpg)](https://www.youtube.com/watch?v=cBoGD3gLO2A)
 
-### **Made by Amit Dewangan (me) & Divya Pawar (my teammate)!**
+### *Made by Amit Dewangan (me) & Divya Pawar (my teammate) for 4th Sem Mini Project.*
 
 **Under MIT Licence**
